@@ -1,0 +1,1 @@
+To read this writeup go to this link : https://medium.com/@vismaysuman02/bankgpt-tryhackme-writeup-561b009c63c7
